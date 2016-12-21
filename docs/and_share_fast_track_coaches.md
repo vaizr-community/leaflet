@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# And Share Fast Track Coaches
+As said before, these sophisticated tools are easy to use. However without the proper background knowledge, you won’t leverage the tool’s possibilities and dissatisfaction can be a result of that. Helping you to be ready to create the most valuable results for your situation is our goal. Once used to our solutions and approach, you’ll never want to look back.
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Your whole development speed will increase with increased quality as well.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

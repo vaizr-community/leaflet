@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Fast Track
+Fast Track is the answer. 
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+The Gartner Group has pointed out the BiModal approach. Embrace the change, but also look for ways to move your legacy systems forward at a higher pace. 
 
-## Commands
+In a way, it is essential to increase your innovation speed and increase the quality at the same time! 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+A solution also needs to support a fast track which runs next to your current legacy systems. 

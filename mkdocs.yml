@@ -1,7 +1,7 @@
 ---
 pages:
   -
-    ? "Front Page"
+    ? "Vaizr Leaflet front page"
     : index.md
   -
     ? "Disruptive innovation"
@@ -31,9 +31,6 @@ pages:
     ? "Fast Track"
     : fast_track.md
   -
-    ? "Fast Track is the answer."
-    : fast_track_is_the_answer.md
-  -
     ? "Fast Track for Digital Transformation"
     : fast_track_for_digital_transformation.md
   -
@@ -56,12 +53,12 @@ pages:
     : fast_track_methodology.md
   -
     ? "Over 50 Companies Use Vaizr Worldwide"
-    : over_50_companiesusevaizr_worldwide.md
+    : over_50_companies_use_vaizr_worldwide.md
   -
     ? "Come on Board"
     : come_on_board.md
   -
-    ? "BeReady"
+    ? "Vaizr Leaflet back page"
     : beready.md
 site_name: VaizrLeaflet
 dev_addr: '0.0.0.0:8000'

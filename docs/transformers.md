@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Transformers
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+There are disruptors and transformers. 
 
-## Commands
+Transformers are established companies continuously offering new products or services in a fast changing environment. The most notable exponent is Apple’s new lease of life under the inspiring leadership of Steve Jobs. For example the transformation from iPod to iPhone.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Also Microsoft shows their power in transformation. Companies like Amazon and Netflix, who have arguably not soft- or hardware as their primary product, show the same behaviour. Be aware Amazon and Netflix are digital born enterprises.

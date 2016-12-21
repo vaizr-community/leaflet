@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Innovate With Existing Technology
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+We believe that transformers create their most impactful innovations with existing technology. 
 
-## Commands
+Use what you have in a smarter way. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+For example, don’t focus on drones for parcel delivery, but make it possible to track your package or to place an order through Whatsapp.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Concerning Gartner’s BiModal and Pace Layered Strategy, we concentrate on the systems of differentiation. Systems of innovations without a good communication with systems of records are doomed to fail

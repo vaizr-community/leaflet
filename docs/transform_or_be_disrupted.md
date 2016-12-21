@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Transform or Be Disrupted
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+We all know the list of companies, successful in completing their transformations: 
 
-## Commands
+Apple – Microsoft – Wehkamp
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+The list of companies that did not survive is much longer though:
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Burroughs – Sperry Univac – Honeywell – Control Data – MSA – McCormick & Dodge – Cullinet – Cincom – ADR – DEC – Data General – Wang – Prime – Tandem – Daisy – Calma – Valid – Apollo – Silicon Graphics – Sun – Atari – Osborne – Commodore – Casio – Palm – Sega – WordPerfect – Lotus – Ashton Tate – Borland – Informix – Ingres – Sybase – BEA– Siebel – PeopleSoft – Nortel – Lucent – 3Com – Banyan – Novell – Quest – America West – Nynex – Bell South – Netscape – MySpace – Inktomi – Ask Jeeves – Yahoo! – Blackberry – Motorola – Nokia – Sony
