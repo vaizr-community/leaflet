@@ -1,0 +1,6 @@
+for (( ; ; ))
+do
+  echo "filename : "
+  read filename
+  cp index.md $filename
+done

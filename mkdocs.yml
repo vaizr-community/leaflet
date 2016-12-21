@@ -1,0 +1,68 @@
+---
+pages:
+  -
+    ? "Front Page"
+    : index.md
+  -
+    ? "Disruptive innovation"
+    : disruptive_innovation.md
+  -
+    ? "Disruptors"
+    : disruptors.md
+  -
+    ? "Transformers"
+    : transformers.md
+  -
+    ? "Innovate With Existing Technology"
+    : innovate_with_existing_technology.md
+  -
+    ? "Equal Innovation Opportunities"
+    : equal_innovation_opportunities.md
+  -
+    ? "Transform or Be Disrupted"
+    : transform_or_be_disrupted.md
+  -
+    ? "Satya Nadella, CEO Microsoft"
+    : ceo_microsoft.md
+  -
+    ? "Paul Nijhof, former CEO Wehkamp"
+    : former_ceo_wehkamp.md
+  -
+    ? "Fast Track"
+    : fast_track.md
+  -
+    ? "Fast Track is the answer."
+    : fast_track_is_the_answer.md
+  -
+    ? "Fast Track for Digital Transformation"
+    : fast_track_for_digital_transformation.md
+  -
+    ? "Fast Track Recipe"
+    : fast_track_recipe.md
+  -
+    ? "A New Way of Digitalization"
+    : a_new_way_of_digitalization.md
+  -
+    ? "Fast Track Solution"
+    : fast_track_solution.md
+  -
+    ? "That’s Why We’ve Built Your Fast Track"
+    : that_s_why_we_ve_built_your_fast_track.md
+  -
+    ? "And Share Fast Track Coaches"
+    : and_share_fast_track_coaches.md
+  -
+    ? "Fast Track Methodology"
+    : fast_track_methodology.md
+  -
+    ? "Over 50 Companies Use Vaizr Worldwide"
+    : over_50_companiesusevaizr_worldwide.md
+  -
+    ? "Come on Board"
+    : come_on_board.md
+  -
+    ? "BeReady"
+    : beready.md
+site_name: VaizrLeaflet
+dev_addr: '0.0.0.0:8000'
+theme: readthedocs
