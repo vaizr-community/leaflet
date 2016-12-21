@@ -4,15 +4,6 @@ pages:
     ? "Vaizr Leaflet front page"
     : index.md
   -
-    ? "Nanne"
-    : nanne.md
-  -
-    ? "Tutorial subdirectory "
-    :
-      -
-        ? "Ruben"
-        : tutorial/ruben.md
-  -
     ? "Disruptive innovation"
     : disruptive_innovation.md
   -
